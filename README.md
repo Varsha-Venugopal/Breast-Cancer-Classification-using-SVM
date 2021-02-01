@@ -1,2 +1,2 @@
-# Hands-On Machine Learning Projects
-Deep Learning and Machine Learning projects
+# Breast Cancer Classification using SVM
+Machine Learning project using scikit-learn
